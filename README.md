@@ -1,6 +1,6 @@
 ## Description
 
-A basic JWT authentication template features Typeorm, Nestjs and Postgres.
+A basic JWT authentication template features Typeorm, Nestjs, Passport and Postgres.
 
 ## Installation
 
